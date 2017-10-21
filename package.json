@@ -1,0 +1,23 @@
+{
+  "name": "webpack-practice06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "prod": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenole/webpack-practice06.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenole/webpack-practice06/issues"
+  },
+  "homepage": "https://github.com/shenole/webpack-practice06#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
